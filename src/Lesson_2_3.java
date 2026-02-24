@@ -66,4 +66,5 @@ public class Lesson_2_3 {
         System.out.println("Добавить молоко / сахар по-вкусу");
         duration();
     }
+    // End of program
 }

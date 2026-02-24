@@ -1,4 +1,5 @@
 public class Lesson_2_2 {
+    // Hi Sensei
     public static void main(String[] args) {
         int temperature = 20;
         int numberOfStudent = 15;
